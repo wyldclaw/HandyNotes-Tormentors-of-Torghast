@@ -1,0 +1,24 @@
+## Interface: 90002
+## Title: HandyNotes: Tormentors of Torghast
+## Author: Wyldclaw-Lightbringer
+## Version: 1.0.0
+## Notes: Tormentors of Torghast spawn order and loot drops
+## OptionalDeps: Ace3
+## RequiredDeps: HandyNotes
+## X-Embeds: Ace3
+## SavedVariables: HandyNotes_TormentorsOfTorghastDB
+
+embeds.xml
+
+localization\enUS.lua
+
+core\class.lua
+core\core.lua
+core\colors.lua
+core\icons.lua
+core\options.lua
+core\map.lua
+core\nodes.lua
+core\rewards.lua
+
+HandyNotes_TormentorsOfTorghast.lua
