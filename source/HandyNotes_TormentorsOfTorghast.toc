@@ -1,7 +1,7 @@
 ## Interface: 90002
 ## Title: HandyNotes: Tormentors of Torghast
 ## Author: Wyldclaw-Lightbringer
-## Version: 1.0.0
+## Version: 1.0.1
 ## Notes: Tormentors of Torghast spawn order and loot drops
 ## OptionalDeps: Ace3
 ## RequiredDeps: HandyNotes
