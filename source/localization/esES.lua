@@ -68,7 +68,6 @@ L["context_menu_title"] = "HandyNotes Tormentors of Torghast";
 L["context_menu_add_tomtom"] = "Añadir a TomTom";
 L["context_menu_hide_node"] = "Esconder este nodo";
 L["context_menu_restore_hidden_nodes"] = "Restaurar todos los nodos escondidos";
-L["Icecrown"] = "Corona de Hielo";
 
 -------------------------------------------------------------------------------
 ----------------------------------- OPTIONS -----------------------------------

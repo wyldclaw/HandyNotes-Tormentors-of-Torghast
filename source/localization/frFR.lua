@@ -68,7 +68,6 @@ L["context_menu_title"] = "HandyNotes Tormentors of Torghast";
 L["context_menu_add_tomtom"] = "Ajouter à TomTom";
 L["context_menu_hide_node"] = "Masquer ce nœud";
 L["context_menu_restore_hidden_nodes"] = "Restaurer tous les nœuds cachés";
-L["Icecrown"] = "La Couronne de glace";
 
 -------------------------------------------------------------------------------
 ----------------------------------- OPTIONS -----------------------------------
@@ -133,4 +132,3 @@ L["options_toggle_ignore_quests"] = "Ignore Quests";
 L["options_toggle_ignore_quests_desc"] = "Ignore quest status of nodes";
 L["options_toggle_force_nodes"] = "Force Nodes";
 L["options_toggle_force_nodes_desc"] = "Force display all nodes";
-

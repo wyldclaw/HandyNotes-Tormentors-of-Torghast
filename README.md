@@ -1,21 +1,13 @@
-# HandyNotes-Tormentors-of-Torghast
+# HandyNotes Tormentors of Torghast
 A [HandyNotes](https://www.curseforge.com/wow/addons/handynotes) plugin for the Tormentors of Torghast event in The Maw added in 9.1. This addon was inspired by [HandyNotes: Scourage Invasion of Shadowlands](https://www.curseforge.com/wow/addons/handynotes-scourge-invasion-of-shadowlands). It will add the rewards and respawn order for each tormentor to the map.
 
-## The Maw
-Tormentors listed as colored skulls. A blue skull means you still need a reward from it.
+Helpful for tracking your progress on the achievement [[Minions of the Cold Dark]](https://www.wowhead.com/achievement=15054/minions-of-the-cold-dark) as well as vanity drops such as [[Chain of Bahmethra]](https://www.wowhead.com/item=185973/chain-of-bahmethra) mount, the [[Amaranthine Stinger]](https://www.wowhead.com/item=186449/amaranthine-stinger) pet, the 32 slot bag [[Semi-Permeable Gelatinous Storage Pouch]](https://www.wowhead.com/item=186560/semi-permeable-gelatinous-storage-pouch), or a variety of transmog items.
+
+Tormentors are listed in spawn order as colored skulls. A blue skull means you still need a reward from it. A Kel'Thuzad skull shows the spawn order and shared loot drops.
 
 ## Options
 * Scale icon sizes and alpha.
 * Show only the tormentors you still need rewards from.
-
-## Integrations
-If TomTom is installed, waypoints to nodes can be created in the right-click menu.
- 
-## Appearances
-For tormentors those drop gear, the tormentor will appear blue if one or more of your class specializations can loot the item and equip it. If those requirements are not met, the tormentor will show as white and you will see one of the two following statuses for the item:
-
-* Unobtainable - Your class can equip the item, but it cannot drop for you
-* Unlearnable - Your class cannot equip the item
 
 ## Localization
 This addon has been supported to the following languages:
@@ -25,7 +17,7 @@ This addon has been supported to the following languages:
 * esES - Spanish
 * frFR - French
 * itIT - Italian
-* ruRU - Russia
+* ruRU - Russiam (Thanks [hubbotu](https://www.curseforge.com/members/hubbotu/projects))
 * zhCN - Chinese (Simplified)
 
 ## Did I miss something?

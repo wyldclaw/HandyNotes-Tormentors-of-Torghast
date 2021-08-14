@@ -75,19 +75,6 @@ L["context_menu_restore_hidden_nodes"] = "Восстановить все скр
 
 L["options_title"] = "HandyNotes Мучители из Торгаста";
 
------------------------------------- ICONS ------------------------------------
-
-L["options_icon_settings"] = "Настройки значков";
-L["options_icons_treasures"] = "Значки Сокровищ";
-L["options_icons_rares"] = "Значки Редких Монстров";
-L["options_icons_caves"] = "Значки Пещер";
-L["options_icons_pet_battles"] = "Значки Битв Питомцев";
-L["options_icons_other"] = "Прочие Значки";
-L["options_scale"] = "Масштаб";
-L["options_scale_desc"] = "1 = 100%";
-L["options_opacity"] = "Прозрачность";
-L["options_opacity_desc"] = "0 = прозрачный, 1 = непрозрачный";
-
 ---------------------------------- VISIBILITY ---------------------------------
 
 L["options_visibility_settings"] = "Отображение";

@@ -68,7 +68,6 @@ L["context_menu_title"] = "HandyNotes Tormentors of Torghast";
 L["context_menu_add_tomtom"] = "Aggiungi a TomTom";
 L["context_menu_hide_node"] = "Nascondi questo nodo";
 L["context_menu_restore_hidden_nodes"] = "Reimposta tutti i nodi nascosti";
-L["Icecrown"] = "Rocca della Corona di Ghiaccio";
 
 -------------------------------------------------------------------------------
 ----------------------------------- OPTIONS -----------------------------------
@@ -133,4 +132,3 @@ L["options_toggle_ignore_quests"] = "Ignora Missioni";
 L["options_toggle_ignore_quests_desc"] = "Ignore quest status of nodes";
 L["options_toggle_force_nodes"] = "Forza Nodo";
 L["options_toggle_force_nodes_desc"] = "Forza la visualizzazione di tutti i nodi";
-
