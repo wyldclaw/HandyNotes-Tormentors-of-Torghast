@@ -15,7 +15,7 @@ Tormentors are listed in spawn order as colored skulls. A blue skull means you s
 * esES - Spanish
 * frFR - French
 * itIT - Italian
-* ruRU - Russiam (Thanks [hubbotu](https://www.curseforge.com/members/hubbotu/projects))
+* ruRU - Russiam (Thanks [hubbotu](https://github.com/Hubbotu))
 * zhCN - Chinese (Simplified)
 
 ## Did I miss something?
